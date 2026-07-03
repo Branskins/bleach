@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Claude Code local settings (machine-specific, not shared)
+.claude/settings.local.json
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
