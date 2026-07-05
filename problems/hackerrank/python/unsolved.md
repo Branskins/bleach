@@ -6,18 +6,18 @@ each off as it's solved here and on HackerRank.
 
 | # | Title | Difficulty | Points |
 |---|---|---|---|
-| 1 | [x] Say "Hello, World!" With Python | Easy | 5 |
-| 2 | [x] Python If-Else | Easy | 10 |
-| 3 | [x] Arithmetic Operators | Easy | 10 |
-| 4 | [x] Python: Division | Easy | 10 |
-| 5 | [x] Loops | Easy | 10 |
-| 6 | [x] Write a function | Medium | 10 |
-| 7 | [x] Print Function | Easy | 20 |
-| 8 | [x] List Comprehensions | Easy | 10 |
-| 9 | [x] Find the Runner-Up Score! | Easy | 10 |
-| 10 | [x] Nested Lists | Easy | 10 |
-| 11 | [x] Finding the percentage | Easy | 10 |
-| 12 | [x] Lists | Easy | 10 |
+| 1 | [x] [Say "Hello, World!" With Python](hello_world.py) | Easy | 5 |
+| 2 | [x] [Python If-Else](if_else.py) | Easy | 10 |
+| 3 | [x] [Arithmetic Operators](arithmetic_operators.py) | Easy | 10 |
+| 4 | [x] [Python: Division](division.py) | Easy | 10 |
+| 5 | [x] [Loops](loops.py) | Easy | 10 |
+| 6 | [x] [Write a function](write_a_function.py) | Medium | 10 |
+| 7 | [x] [Print Function](print_function.py) | Easy | 20 |
+| 8 | [x] [List Comprehensions](list_comprehensions.py) | Easy | 10 |
+| 9 | [x] [Find the Runner-Up Score!](runner_up_score.py) | Easy | 10 |
+| 10 | [x] [Nested Lists](nested_lists.py) | Easy | 10 |
+| 11 | [x] [Finding the percentage](finding_the_percentage.py) | Easy | 10 |
+| 12 | [x] [Lists](lists.py) | Easy | 10 |
 | 13 | [ ] Tuples | Easy | 10 |
 | 14 | [ ] sWAP cASE | Easy | 10 |
 | 15 | [ ] String Split and Join | Easy | 10 |
@@ -28,56 +28,56 @@ each off as it's solved here and on HackerRank.
 | 20 | [ ] Text Alignment | Easy | 10 |
 | 21 | [ ] Text Wrap | Easy | 10 |
 | 22 | [ ] Designer Door Mat | Easy | 10 |
-| 23 | [ ] String Formatting | Easy | 10 |
-| 24 | [ ] Alphabet Rangoli | Easy | 20 |
-| 25 | [ ] Capitalize! | Easy | 20 |
-| 26 | [ ] The Minion Game | Medium | 40 |
-| 27 | [ ] Merge the Tools! | Medium | 40 |
-| 28 | [ ] collections.Counter() | Easy | 10 |
-| 29 | [ ] itertools.product() | Easy | 10 |
-| 30 | [ ] Introduction to Sets | Easy | 10 |
-| 31 | [ ] Polar Coordinates | Easy | 10 |
-| 32 | [ ] DefaultDict Tutorial | Easy | 20 |
-| 33 | [ ] Calendar Module | Easy | 10 |
-| 34 | [ ] Exceptions | Easy | 10 |
-| 35 | [ ] Collections.namedtuple() | Easy | 20 |
-| 36 | [ ] Time Delta | Medium | 30 |
-| 37 | [ ] Find Angle MBC | Medium | 10 |
-| 38 | [ ] No Idea! | Medium | 50 |
-| 39 | [ ] Collections.OrderedDict() | Easy | 20 |
-| 40 | [ ] Symmetric Difference | Easy | 10 |
-| 41 | [ ] itertools.combinations() | Easy | 10 |
-| 42 | [ ] Incorrect Regex | Easy | 20 |
-| 43 | [ ] Set .add() | Easy | 10 |
-| 44 | [ ] itertools.combinations_with_replacement() | Easy | 10 |
-| 45 | [ ] Word Order | Medium | 50 |
-| 46 | [ ] Set .discard(), .remove() & .pop() | Easy | 10 |
-| 47 | [ ] Collections.deque() | Easy | 20 |
-| 48 | [ ] Compress the String! | Medium | 20 |
-| 49 | [ ] Company Logo | Medium | 30 |
-| 50 | [ ] Set .union() Operation | Easy | 10 |
-| 51 | [ ] Piling Up! | Medium | 50 |
-| 52 | [ ] Triangle Quest 2 | Medium | 20 |
-| 53 | [ ] Iterables and Iterators | Medium | 40 |
-| 54 | [ ] Set .intersection() Operation | Easy | 10 |
-| 55 | [ ] Mod Divmod | Easy | 10 |
-| 56 | [ ] Power - Mod Power | Easy | 10 |
-| 57 | [ ] Maximize It! | Hard | 50 |
-| 58 | [ ] Set .difference() Operation | Easy | 10 |
-| 59 | [ ] Integers Come In All Sizes | Easy | 10 |
-| 60 | [ ] Set .symmetric_difference() Operation | Easy | 10 |
-| 61 | [ ] Set Mutations | Easy | 10 |
-| 62 | [ ] Triangle Quest | Medium | 20 |
-| 63 | [ ] The Captain's Room | Easy | 10 |
-| 64 | [ ] Check Subset | Easy | 10 |
-| 65 | [ ] Check Strict Superset | Easy | 10 |
-| 66 | [ ] Classes: Dealing with Complex Numbers | Medium | 20 |
-| 67 | [ ] Class 2 - Find the Torsional Angle | Easy | 20 |
-| 68 | [ ] Zipped! | Easy | 10 |
-| 69 | [ ] Input() | Easy | 20 |
-| 70 | [ ] Python Evaluation | Easy | 20 |
-| 71 | [ ] Athlete Sort | Medium | 30 |
-| 72 | [ ] Any or All | Easy | 20 |
+| 23 | [x] [String Formatting](string_formatting.py) | Easy | 10 |
+| 24 | [x] [Alphabet Rangoli](alphabet_rangoli.py) | Easy | 20 |
+| 25 | [x] [Capitalize!](capitalize.py) | Easy | 20 |
+| 26 | [x] [The Minion Game](the_minion_game.py) | Medium | 40 |
+| 27 | [x] [Merge the Tools!](merge_the_tools.py) | Medium | 40 |
+| 28 | [x] [collections.Counter()](collections_counter.py) | Easy | 10 |
+| 29 | [x] [itertools.product()](itertools_product.py) | Easy | 10 |
+| 30 | [x] [Introduction to Sets](introduction_to_sets.py) | Easy | 10 |
+| 31 | [x] [Polar Coordinates](polar_coordinates.py) | Easy | 10 |
+| 32 | [x] [DefaultDict Tutorial](defaultdict_tutorial.py) | Easy | 20 |
+| 33 | [x] [Calendar Module](calendar_module.py) | Easy | 10 |
+| 34 | [x] [Exceptions](exceptions.py) | Easy | 10 |
+| 35 | [x] [Collections.namedtuple()](collections_namedtuple.py) | Easy | 20 |
+| 36 | [x] [Time Delta](time_delta.py) | Medium | 30 |
+| 37 | [x] [Find Angle MBC](find_angle_mbc.py) | Medium | 10 |
+| 38 | [x] [No Idea!](no_idea.py) | Medium | 50 |
+| 39 | [x] [Collections.OrderedDict()](collections_ordereddict.py) | Easy | 20 |
+| 40 | [x] [Symmetric Difference](symmetric_difference.py) | Easy | 10 |
+| 41 | [x] [itertools.combinations()](itertools_combinations.py) | Easy | 10 |
+| 42 | [x] [Incorrect Regex](incorrect_regex.py) | Easy | 20 |
+| 43 | [x] [Set .add()](set_add.py) | Easy | 10 |
+| 44 | [x] [itertools.combinations_with_replacement()](itertools_combinations_with_replacement.py) | Easy | 10 |
+| 45 | [x] [Word Order](word_order.py) | Medium | 50 |
+| 46 | [x] [Set .discard(), .remove() & .pop()](set_discard_remove_pop.py) | Easy | 10 |
+| 47 | [x] [Collections.deque()](collections_deque.py) | Easy | 20 |
+| 48 | [x] [Compress the String!](compress_the_string.py) | Medium | 20 |
+| 49 | [x] [Company Logo](company_logo.py) | Medium | 30 |
+| 50 | [x] [Set .union() Operation](set_union.py) | Easy | 10 |
+| 51 | [x] [Piling Up!](piling_up.py) | Medium | 50 |
+| 52 | [x] [Triangle Quest 2](triangle_quest_2.py) | Medium | 20 |
+| 53 | [x] [Iterables and Iterators](iterables_and_iterators.py) | Medium | 40 |
+| 54 | [x] [Set .intersection() Operation](set_intersection.py) | Easy | 10 |
+| 55 | [x] [Mod Divmod](mod_divmod.py) | Easy | 10 |
+| 56 | [x] [Power - Mod Power](power_mod_power.py) | Easy | 10 |
+| 57 | [x] [Maximize It!](maximize_it.py) | Hard | 50 |
+| 58 | [x] [Set .difference() Operation](set_difference.py) | Easy | 10 |
+| 59 | [x] [Integers Come In All Sizes](integers_come_in_all_sizes.py) | Easy | 10 |
+| 60 | [x] [Set .symmetric_difference() Operation](set_symmetric_difference.py) | Easy | 10 |
+| 61 | [x] [Set Mutations](set_mutations.py) | Easy | 10 |
+| 62 | [x] [Triangle Quest](triangle_quest.py) | Medium | 20 |
+| 63 | [x] [The Captain's Room](the_captains_room.py) | Easy | 10 |
+| 64 | [x] [Check Subset](check_subset.py) | Easy | 10 |
+| 65 | [x] [Check Strict Superset](check_strict_superset.py) | Easy | 10 |
+| 66 | [x] [Classes: Dealing with Complex Numbers](complex_numbers.py) | Medium | 20 |
+| 67 | [x] [Class 2 - Find the Torsional Angle](torsional_angle.py) | Easy | 20 |
+| 68 | [x] [Zipped!](zipped.py) | Easy | 10 |
+| 69 | [x] [Input()](input_eval.py) | Easy | 20 |
+| 70 | [x] [Python Evaluation](python_evaluation.py) | Easy | 20 |
+| 71 | [x] [Athlete Sort](athlete_sort.py) | Medium | 30 |
+| 72 | [x] [Any or All](any_or_all.py) | Easy | 20 |
 | 73 | [ ] ginortS | Medium | 40 |
 | 74 | [ ] Detect Floating Point Number | Easy | 20 |
 | 75 | [ ] Map and Lambda Function | Easy | 20 |
