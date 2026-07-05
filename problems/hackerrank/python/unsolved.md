@@ -18,16 +18,16 @@ each off as it's solved here and on HackerRank.
 | 10 | [x] [Nested Lists](nested_lists.py) | Easy | 10 |
 | 11 | [x] [Finding the percentage](finding_the_percentage.py) | Easy | 10 |
 | 12 | [x] [Lists](lists.py) | Easy | 10 |
-| 13 | [ ] Tuples | Easy | 10 |
-| 14 | [ ] sWAP cASE | Easy | 10 |
-| 15 | [ ] String Split and Join | Easy | 10 |
-| 16 | [ ] What's Your Name? | Easy | 10 |
-| 17 | [ ] Mutations | Easy | 10 |
-| 18 | [ ] Find a string | Easy | 10 |
-| 19 | [ ] String Validators | Easy | 10 |
-| 20 | [ ] Text Alignment | Easy | 10 |
-| 21 | [ ] Text Wrap | Easy | 10 |
-| 22 | [ ] Designer Door Mat | Easy | 10 |
+| 13 | [x] [Tuples](tuples.py) | Easy | 10 |
+| 14 | [x] [sWAP cASE](swap_case.py) | Easy | 10 |
+| 15 | [x] [String Split and Join](string_split_and_join.py) | Easy | 10 |
+| 16 | [x] [What's Your Name?](whats_your_name.py) | Easy | 10 |
+| 17 | [x] [Mutations](mutations.py) | Easy | 10 |
+| 18 | [x] [Find a string](find_a_string.py) | Easy | 10 |
+| 19 | [x] [String Validators](string_validators.py) | Easy | 10 |
+| 20 | [x] [Text Alignment](text_alignment.py) | Easy | 10 |
+| 21 | [x] [Text Wrap](text_wrap.py) | Easy | 10 |
+| 22 | [x] [Designer Door Mat](designer_door_mat.py) | Easy | 10 |
 | 23 | [x] [String Formatting](string_formatting.py) | Easy | 10 |
 | 24 | [x] [Alphabet Rangoli](alphabet_rangoli.py) | Easy | 20 |
 | 25 | [x] [Capitalize!](capitalize.py) | Easy | 20 |
@@ -78,24 +78,24 @@ each off as it's solved here and on HackerRank.
 | 70 | [x] [Python Evaluation](python_evaluation.py) | Easy | 20 |
 | 71 | [x] [Athlete Sort](athlete_sort.py) | Medium | 30 |
 | 72 | [x] [Any or All](any_or_all.py) | Easy | 20 |
-| 73 | [ ] ginortS | Medium | 40 |
-| 74 | [ ] Detect Floating Point Number | Easy | 20 |
-| 75 | [ ] Map and Lambda Function | Easy | 20 |
-| 76 | [ ] Re.split() | Easy | 20 |
-| 77 | [ ] Validating Email Addresses With a Filter | Medium | 20 |
-| 78 | [ ] Group(), Groups() & Groupdict() | Easy | 20 |
-| 79 | [ ] Reduce Function | Medium | 30 |
-| 80 | [ ] Re.findall() & Re.finditer() | Easy | 20 |
-| 81 | [ ] Re.start() & Re.end() | Easy | 20 |
-| 82 | [ ] Regex Substitution | Medium | 20 |
-| 83 | [ ] Validating Roman Numerals | Easy | 20 |
-| 84 | [ ] Validating phone numbers | Easy | 20 |
-| 85 | [ ] Validating and Parsing Email Addresses | Easy | 20 |
-| 86 | [ ] Hex Color Code | Easy | 30 |
-| 87 | [ ] HTML Parser - Part 1 | Easy | 30 |
-| 88 | [ ] HTML Parser - Part 2 | Easy | 30 |
-| 89 | [ ] Detect HTML Tags, Attributes and Attribute Values | Easy | 30 |
-| 90 | [ ] XML 1 - Find the Score | Easy | 20 |
+| 73 | [x] [ginortS](ginorts.py) | Medium | 40 |
+| 74 | [x] [Detect Floating Point Number](detect_floating_point_number.py) | Easy | 20 |
+| 75 | [x] [Map and Lambda Function](map_and_lambda_function.py) | Easy | 20 |
+| 76 | [x] [Re.split()](re_split.py) | Easy | 20 |
+| 77 | [x] [Validating Email Addresses With a Filter](validating_email_addresses_with_a_filter.py) | Medium | 20 |
+| 78 | [x] [Group(), Groups() & Groupdict()](group_groups_groupdict.py) | Easy | 20 |
+| 79 | [x] [Reduce Function](reduce_function.py) | Medium | 30 |
+| 80 | [x] [Re.findall() & Re.finditer()](re_findall_re_finditer.py) | Easy | 20 |
+| 81 | [x] [Re.start() & Re.end()](re_start_re_end.py) | Easy | 20 |
+| 82 | [x] [Regex Substitution](regex_substitution.py) | Medium | 20 |
+| 83 | [x] [Validating Roman Numerals](validating_roman_numerals.py) | Easy | 20 |
+| 84 | [x] [Validating phone numbers](validating_phone_numbers.py) | Easy | 20 |
+| 85 | [x] [Validating and Parsing Email Addresses](validating_and_parsing_email_addresses.py) | Easy | 20 |
+| 86 | [x] [Hex Color Code](hex_color_code.py) | Easy | 30 |
+| 87 | [x] [HTML Parser - Part 1](html_parser_part_1.py) | Easy | 30 |
+| 88 | [x] [HTML Parser - Part 2](html_parser_part_2.py) | Easy | 30 |
+| 89 | [x] [Detect HTML Tags, Attributes and Attribute Values](detect_html_tags_attributes_and_attribute_values.py) | Easy | 30 |
+| 90 | [x] [XML 1 - Find the Score](xml_1_find_the_score.py) | Easy | 20 |
 | 91 | [ ] Validating UID | Easy | 40 |
 | 92 | [ ] Validating Credit Card Numbers | Medium | 40 |
 | 93 | [ ] XML2 - Find the Maximum Depth | Easy | 20 |
