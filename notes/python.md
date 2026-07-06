@@ -57,6 +57,24 @@ textwrap.wrap("This is a really long line", 8)
 # "This is\na really\nlong\nline"
 ```
 
+### string - Common string operations
+
+#### `string.ascii_lowercase` for the alphabet as a string
+
+`string.ascii_lowercase` is a constant string containing all 26 lowercase letters in
+order, `"abcdefghijklmnopqrstuvwxyz"`. Useful whenever a problem needs to index into or
+slice the alphabet instead of hardcoding it.
+
+```python
+import string
+
+string.ascii_lowercase
+# "abcdefghijklmnopqrstuvwxyz"
+
+string.ascii_lowercase[:5]
+# "abcde"
+```
+
 ## Built-in Functions
 
 ### `bin` to get an integer's binary representation
@@ -70,4 +88,46 @@ bin(5)
 
 bin(5)[2:]
 # "101"
+```
+
+### `enumerate` to pair each element with its index
+
+`enumerate(iterable)` returns an iterator of `(index, element)` tuples, so you avoid
+manually tracking a counter or indexing back into the iterable with `[i]`.
+
+```python
+string = "AEIOU"
+
+for i, c in enumerate(string):
+    print(i, c)
+# 0 A
+# 1 E
+# 2 I
+# 3 O
+# 4 U
+```
+
+## Data Types
+
+### collections
+
+#### `Counter` for counting hashable items
+
+`Counter(iterable)` builds a dict-like object mapping each distinct item to its count.
+Indexing a missing key returns `0` instead of raising `KeyError`, which makes it handy
+as a depleting stock/tally: decrement a key as items get "used up" without needing to
+check for existence first.
+
+```python
+from collections import Counter
+
+sizes = [2, 3, 4, 5, 6, 8]
+stock = Counter(sizes)
+# Counter({2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 8: 1})
+
+stock[9]
+# 0  -- missing key, no KeyError
+
+stock[4] -= 1
+# Counter({2: 1, 3: 1, 4: 0, 5: 1, 6: 1, 8: 1})
 ```

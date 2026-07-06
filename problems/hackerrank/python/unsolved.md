@@ -96,27 +96,28 @@ each off as it's solved here and on HackerRank.
 | 88 | [x] [HTML Parser - Part 2](html_parser_part_2.py) | Easy | 30 |
 | 89 | [x] [Detect HTML Tags, Attributes and Attribute Values](detect_html_tags_attributes_and_attribute_values.py) | Easy | 30 |
 | 90 | [x] [XML 1 - Find the Score](xml_1_find_the_score.py) | Easy | 20 |
-| 91 | [ ] Validating UID | Easy | 40 |
-| 92 | [ ] Validating Credit Card Numbers | Medium | 40 |
-| 93 | [ ] XML2 - Find the Maximum Depth | Easy | 20 |
-| 94 | [ ] Standardize Mobile Number Using Decorators | Easy | 30 |
-| 95 | [ ] Validating Postal Codes | Hard | 80 |
-| 96 | [ ] Decorators 2 - Name Directory | Easy | 30 |
-| 97 | [ ] Matrix Script | Hard | 100 |
-| 98 | [ ] Words Score | Medium | 10 |
-| 99 | [ ] Arrays | Easy | 20 |
-| 100 | [ ] Shape and Reshape | Easy | 20 |
-| 101 | [ ] Default Arguments | Medium | 30 |
-| 102 | [ ] Transpose and Flatten | Easy | 20 |
-| 103 | [ ] Concatenate | Easy | 20 |
-| 104 | [ ] Zeros and Ones | Easy | 20 |
-| 105 | [ ] Eye and Identity | Easy | 20 |
-| 106 | [ ] Array Mathematics | Easy | 20 |
-| 107 | [ ] Floor, Ceil and Rint | Easy | 20 |
-| 108 | [ ] Sum and Prod | Easy | 20 |
-| 109 | [ ] Min and Max | Easy | 20 |
-| 110 | [ ] Mean, Var, and Std | Easy | 20 |
-| 111 | [ ] Dot and Cross | Easy | 20 |
-| 112 | [ ] Inner and Outer | Easy | 20 |
-| 113 | [ ] Polynomials | Easy | 20 |
-| 114 | [ ] Linear Algebra | Easy | 20 |
+| 91 | [x] [Validating UID](validating_uid.py) | Easy | 40 |
+| 92 | [x] [Validating Credit Card Numbers](validating_credit_card_numbers.py) | Medium | 40 |
+| 93 | [x] [XML2 - Find the Maximum Depth](xml2_find_the_maximum_depth.py) | Easy | 20 |
+| 94 | [x] [Standardize Mobile Number Using Decorators](standardize_mobile_number_using_decorators.py) | Easy | 30 |
+| 95 | [x] [Validating Postal Codes](validating_postal_codes.py) | Hard | 80 |
+| 96 | [x] [Decorators 2 - Name Directory](decorators_2_name_directory.py) | Easy | 30 |
+| 97 | [x] [Matrix Script](matrix_script.py) | Hard | 100 |
+| 98 | [x] [Words Score](words_score.py) | Medium | 10 |
+| 99 | [x] [Arrays](arrays.py) | Easy | 20 |
+| 100 | [x] [Shape and Reshape](shape_and_reshape.py) | Easy | 20 |
+| 101 | [x] [Default Arguments](default_arguments.py) | Medium | 30 |
+| 102 | [x] [Transpose and Flatten](transpose_and_flatten.py) | Easy | 20 |
+| 103 | [x] [Concatenate](concatenate.py) | Easy | 20 |
+| 104 | [x] [Zeros and Ones](zeros_and_ones.py) | Easy | 20 |
+| 105 | [x] [Eye and Identity](eye_and_identity.py) | Easy | 20 |
+| 106 | [x] [Array Mathematics](array_mathematics.py) | Easy | 20 |
+| 107 | [x] [Floor, Ceil and Rint](floor_ceil_and_rint.py) | Easy | 20 |
+| 108 | [x] [Sum and Prod](sum_and_prod.py) | Easy | 20 |
+| 109 | [x] [Min and Max](min_and_max.py) | Easy | 20 |
+| 110 | [x] [Mean, Var, and Std](mean_var_and_std.py) | Easy | 20 |
+| 111 | [x] [Dot and Cross](dot_and_cross.py) | Easy | 20 |
+| 112 | [x] [Inner and Outer](inner_and_outer.py) | Easy | 20 |
+| 113 | [x] [Polynomials](polynomials.py) | Easy | 20 |
+| 114 | [x] [Linear Algebra](linear_algebra.py) | Easy | 20 |
+| 115 | [x] [itertools.permutations()](itertools_permutations.py) | Easy | 10 |
