@@ -1,5 +1,22 @@
 # Python learning notes
 
+## `if __name__ == "__main__":` Standard Python Main Pattern
+
+`__name__` is a built-in variable that Python sets to `"__main__"` when a file is run
+directly (e.g. `python solution.py`), but to the module's name when it's imported by
+another file. Guarding script code behind this check lets a file be both a runnable
+script and an importable module without the script part running on import (e.g. when
+a test file does `from solution import solve`).
+
+```python
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
+```
+
 ## Set comprehensions with tuple unpacking (dedupe one field of pairs)
 
 `{expression for item in iterable if condition}` 
