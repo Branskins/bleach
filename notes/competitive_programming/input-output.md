@@ -32,6 +32,36 @@ pairs
 `tuple(...)` packages each pair as immutable; swap in `list(...)` if the pair needs to
 be mutated later.
 
+### T test cases, each with its own N then N ints
+
+When there's an outer count `t` of test cases *and* each test case has its own inner
+count `n` (size of that test case's array), loop over `t` and read `n` fresh inside
+the loop. Don't reuse one test case's `n` as the read-count for another — they're
+unrelated numbers that happen to look alike.
+
+```python
+t = int(input())
+arrays = []
+for _ in range(t):
+    n = int(input())
+    arrays.append(tuple(map(int, input().split())))
+```
+
+**Input format**
+
+```
+2
+3
+1 1 1
+3
+4 3 6
+```
+
+```python
+arrays
+# [(1, 1, 1), (4, 3, 6)]
+```
+
 ## Output
 
 ### Mapping records to per-line strings, then printing them as one block
